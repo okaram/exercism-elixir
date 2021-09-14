@@ -20,3 +20,4 @@ defmodule BoutiqueInventory do
       |> Enum.reduce(0,fn(a,b)->a+b end)
   end
 end
+
